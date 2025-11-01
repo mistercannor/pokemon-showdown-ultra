@@ -28,7 +28,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		name: "[Gen 9] Legends Z-A VGC",
 		mod: 'gen9legendsvgc',
 		gameType: 'doubles',
-		ruleset: ['Flat Rules','!! Adjust Level = 50', 'Min Source Gen = 3', 'VGC Timer', 'Force Open Team Sheets', 'Best of = 3','Terastal Clause'],
+		ruleset: ['Flat Rules','Adjust Level = 50', 'Min Source Gen = 3', 'VGC Timer', 'Force Open Team Sheets', 'Best of = 3','Terastal Clause'],
 		banlist: ['Diancie', 'Xerneas','Yveltal','Volcanion','Hoopa','Hoopa-Unbound','Zygarde','Zygarde-10%','Zygarde-Complete'],
 		unbanlist: ['Covert Cloak','Clear Amulet','Eject Button','Eject Pack','Red Card','Ability Shield','Loaded Dice'],
 	},
